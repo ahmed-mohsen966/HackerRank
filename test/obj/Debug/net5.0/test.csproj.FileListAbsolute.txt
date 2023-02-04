@@ -1,0 +1,16 @@
+G:\HackerRank\C#\test\test\bin\Debug\net5.0\test.exe
+G:\HackerRank\C#\test\test\bin\Debug\net5.0\test.deps.json
+G:\HackerRank\C#\test\test\bin\Debug\net5.0\test.runtimeconfig.json
+G:\HackerRank\C#\test\test\bin\Debug\net5.0\test.runtimeconfig.dev.json
+G:\HackerRank\C#\test\test\bin\Debug\net5.0\test.dll
+G:\HackerRank\C#\test\test\bin\Debug\net5.0\test.pdb
+G:\HackerRank\C#\test\test\obj\Debug\net5.0\test.csproj.AssemblyReference.cache
+G:\HackerRank\C#\test\test\obj\Debug\net5.0\test.GeneratedMSBuildEditorConfig.editorconfig
+G:\HackerRank\C#\test\test\obj\Debug\net5.0\test.AssemblyInfoInputs.cache
+G:\HackerRank\C#\test\test\obj\Debug\net5.0\test.AssemblyInfo.cs
+G:\HackerRank\C#\test\test\obj\Debug\net5.0\test.csproj.CoreCompileInputs.cache
+G:\HackerRank\C#\test\test\obj\Debug\net5.0\test.dll
+G:\HackerRank\C#\test\test\obj\Debug\net5.0\refint\test.dll
+G:\HackerRank\C#\test\test\obj\Debug\net5.0\test.pdb
+G:\HackerRank\C#\test\test\obj\Debug\net5.0\test.genruntimeconfig.cache
+G:\HackerRank\C#\test\test\obj\Debug\net5.0\ref\test.dll
